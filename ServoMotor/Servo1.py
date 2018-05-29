@@ -1,4 +1,6 @@
 # Servo1.py
+# ce fichier ne servi que quand vous utilisez diretement GPIO pour contrôler les servomoteurs, si vous avez besoin d'utilier la carte PCA9685,
+# il faut que vous utilisiez le fichier servo2.py
 
 import RPi.GPIO as GPIO
 import time
