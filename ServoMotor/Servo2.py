@@ -10,8 +10,8 @@ i2c_address = 0x40 # (standard) adapt to your module
 channel = 0 # adapt to your wiring
 channel2 = 1
 channel3 = 2
-a = 8.5 # adapt to your servo
-b = 2  # adapt to your servo
+a = 8.5 
+b = 2  
 
 def setup():
     global pwm
