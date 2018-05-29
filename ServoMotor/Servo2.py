@@ -6,8 +6,8 @@ from PCA9685 import PWM
 import time
 
 fPWM = 50
-i2c_address = 0x40 # (standard) adapt to your module
-channel = 0 # adapt to your wiring
+i2c_address = 0x40 
+channel = 0 
 channel2 = 1
 channel3 = 2
 a = 8.5 
